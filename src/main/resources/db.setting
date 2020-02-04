@@ -1,0 +1,9 @@
+# url = jdbc:oracle:thin:@10.10.10.7:1521/yjppdb
+url = jdbc:mysql://10.10.12.43:3306/tmp
+user = root
+pass = aa123
+
+showSql = false
+formatSql = false
+showParams = true
+maximumPoolSize = 15
